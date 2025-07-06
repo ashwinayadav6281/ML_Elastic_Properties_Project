@@ -79,15 +79,5 @@ pip install matminer pymatgen scikit-learn pandas matplotlib seaborn
 
 ---
 
-## 🧠 Future Work
 
-- Add XGBoost and Neural Network models
-- Incorporate structural features from `structure` column
-- Use SHAP values for interpretability
-
----
-
-## 👨‍🔬 Author
-
-Ash — based on project work under faculty guidance for materials informatics
 
